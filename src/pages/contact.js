@@ -11,7 +11,7 @@ const Contact = () => {
         <Layout>
             <SEO title="Contact" />
             <Container>
-                <Row className="mt-5 contact text-center justify-content-md-center">
+                <Row className="mt-5 contact text-center justify-content-center">
                     <Col xs={12} sm={12} md={12} lg={12} xl={12}>
                         <h1>Hello there</h1>
                         <p className="lead">
